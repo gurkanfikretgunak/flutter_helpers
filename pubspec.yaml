@@ -1,0 +1,20 @@
+name: flutter_helpers
+description: Flutter Helpers Package provides straightforward state management along with a range of extensions and utility methods, streamlining the development process for increased efficiency.
+repository: https://github.com/gurkanfikretgunak/flutter_helpers
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ">=0.17.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^5.1.0
+
+flutter:
